@@ -1,2 +1,2 @@
-# code-refractor.mkiriche.gihub.io
+# code-refractor.mkiriche.github.io
 First Homework Assignment 
